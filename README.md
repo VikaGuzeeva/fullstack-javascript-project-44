@@ -7,6 +7,8 @@
 Учебный проект Хекслета: https://ru.hexlet.io/programs/fullstack-javascript
 Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
 
+Определение четного числа -  https://asciinema.org/a/7EUe8tsmYLAjIORc
+
 ## Стек
 
 - JavaScript
