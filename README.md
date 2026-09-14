@@ -10,6 +10,7 @@
 Определение четного числа -  https://asciinema.org/a/7EUe8tsmYLAjIORc
 Калькулятор -  https://asciinema.org/a/DBJlKMLvavjwpT1e
 Определение наибольшего общего делителя - https://asciinema.org/a/SikUNSm2zinfxXsf
+Прогрессия -  https://asciinema.org/a/8N8MuTksgcbGX7SY
 
 ## Стек
 
