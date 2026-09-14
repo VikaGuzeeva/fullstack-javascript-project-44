@@ -8,6 +8,7 @@
 Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
 
 Определение четного числа -  https://asciinema.org/a/7EUe8tsmYLAjIORc
+Калькулятор -  https://asciinema.org/a/DBJlKMLvavjwpT1e
 
 ## Стек
 
