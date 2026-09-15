@@ -1,43 +1,16 @@
 # Игры разума (JS)
 
-[![hexlet-check](https://github.com/VikaGuzeeva/fullstack-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/VikaGuzeeva/fullstack-javascript-project-44/actions)
+«Игры разума» — набор из пяти консольных игр по мотивам популярных мобильных приложений для тренировки мозга. Каждая игра задаёт вопросы, на которые нужно дать правильные ответы. После трёх правильных ответов игра считается пройденной; неправильный ответ завершает игру и предлагает пройти её заново.
 
-Погрузитесь в непростую экосистему JavaScript, научитесь настраивать рабочее окружение. Подружитесь с линтером (анализатором качества кода) и менеджером зависимостей npm. Поймёте, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
+<h1>Игры</h1>
+<ul>
+<li><a href="https://asciinema.org/a/7EUe8tsmYLAjIORc">Определение четного числа</a></li>
+<li><a href="https://asciinema.org/a/DBJlKMLvavjwpT1e">Калькулятор</a></li>
+<li><a href="https://asciinema.org/a/SikUNSm2zinfxXsf">Определение наибольшего общего делителя</a></li>
+<li><a href="https://asciinema.org/a/8N8MuTksgcbGX7SY">Прогрессия</a></li>
+<li><a href=" https://asciinema.org/a/SmFDiaZaJMzVI6ZZ">Простое число</a></li>
+</ul>
 
-Учебный проект Хекслета: https://ru.hexlet.io/programs/fullstack-javascript
-Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
-
-Определение четного числа -  https://asciinema.org/a/7EUe8tsmYLAjIORc
-Калькулятор -  https://asciinema.org/a/DBJlKMLvavjwpT1e
-Определение наибольшего общего делителя - https://asciinema.org/a/SikUNSm2zinfxXsf
-Прогрессия -  https://asciinema.org/a/8N8MuTksgcbGX7SY
-
-## Стек
-
-- JavaScript
 
 ## Установка
-
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
-
-```bash
-git clone https://github.com/VikaGuzeeva/fullstack-javascript-project-44.git
-cd fullstack-javascript-project-44
-```
-
-## Использование
-
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
----
-
-<details>
-<summary>Автоматические тесты Хекслета</summary>
-
-Тесты запускаются на каждый коммит. За запуск отвечает файл `.github/workflows/hexlet-check.yml` — не удаляйте и не переименовывайте ни его, ни репозиторий.
-
-</details>
-
-## О Хекслете
-
-[Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+$ npm link
